@@ -53,9 +53,9 @@ Key features include:
 ### 5. 🔔 Notification System
 - In-app and email notifications for event reminders, winner announcements, and updates 📧
 
-### 6. 💬 Chat & Announcements (Optional)
+### 6. 💬 Chat & Announcements
 - Real-time chat groups for event discussions using **Socket.IO** 💬
-- Admin-wide announcements 📢
+- Organizer-wide announcements 📢
 
 ### 7. 📸 Media & Gallery Module
 - Upload and view event photos
